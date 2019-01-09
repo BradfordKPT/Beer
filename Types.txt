@@ -3,3 +3,10 @@ _____________
 - IPA
 - Lager
 - Ale
+- Bock
+- Helles
+- Wheat
+
+Snacks
+_____________
+Doritos
